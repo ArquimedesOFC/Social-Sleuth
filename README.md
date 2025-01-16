@@ -19,7 +19,7 @@ Para começar a usar o Social Sleuth, basta seguir as instruções abaixo:
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/social-sleuth.git
+   git clone https://github.com/arquimedesOFC/social-sleuth.git
 Instale as dependências:
 
 bash
